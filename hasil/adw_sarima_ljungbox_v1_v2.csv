@@ -1,0 +1,3 @@
+Dataset,SARIMA Spec,Ljung-Box Stat (Lag 12),p-value,Kesimpulan White Noise
+V1 — Independent,"(0, 1, 1)(0, 1, 1, 12)",29.073044103782596,0.003842769973808495,Tidak Terpenuhi (p <= 0.05)
+V2 — Procurement-inspired,"(1, 1, 1)(0, 1, 1, 12)",42.78953943634398,2.4509391062214016e-05,Tidak Terpenuhi (p <= 0.05)
